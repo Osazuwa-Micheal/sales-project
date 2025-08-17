@@ -1,6 +1,7 @@
 # Sales Dashboard Analysis
 
 ![Sales Performance Dashboard](./second_dash_board.jpg)
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzc3ODgyYTctNDlmMi00NTI0LWJmMWQtMGRiNGZiNzljMWEzIiwidCI6ImQ5ZDBlYmNhLWEyMGYtNDI0My1iMjU4LWVkMTk1M2UwZWQ1OCJ9)
 
 ## Key Metrics:
 
